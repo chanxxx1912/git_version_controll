@@ -161,3 +161,4 @@ sid,search,"splunk_server","_time","is_realtime",provenance,"api_et","api_index_
 |  top 20 changed_file 
 |  fields - percent
 | rename changed_file as ""Filename"" count as Count","chandana-VirtualBox","1657887007.503923",0,"UI:Dashboard:status","1657281600.000000000",0,0,"1657887007.000000000",32,1657887007,6,search3,32,"1657281600.000000000","1657887007.000000000",completed,"1.297",,,,,,,,,,,,,,,,,,,
+"chandana__chandana_Z2l0X2Zvcl9zcGx1bms__search2_1657887082.27","search sourcetype=gitforsplunk index=_internal host=chandana-VirtualBox earliest=1657886553 latest=1657886554","chandana-VirtualBox","1657887082.364099",0,"UI:Dashboard:status","1657281600.000000000",0,0,"1657887082.000000000",1,1657887082,1,search2,1,"1657886553.000000000","1657886554.000000000",completed,"0.654",,,,,,,,,,,,,,,,,,,
