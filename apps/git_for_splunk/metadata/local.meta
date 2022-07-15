@@ -1,0 +1,8 @@
+[app/install/install_source_checksum]
+version = 9.0.0
+modtime = 1657885922.277533000
+
+[inputs/gitforsplunk%3A%2F%2Fgitversioncontroll]
+owner = chandana
+version = 9.0.0
+modtime = 1657886042.065143000
