@@ -1,4 +1,4 @@
 sid,search,"splunk_server","_time","is_realtime","event_count","exec_time","result_count","scan_count",status,"total_run_time","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime","__mv_event_count","__mv_exec_time","__mv_result_count","__mv_scan_count","__mv_status","__mv_total_run_time"
 "1657885621.5","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1657885621.247853",0,0,1657885621,0,0,canceled,"0.294",,,,,,,,,,,
 "1657889220.44","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1657889220.434800",0,0,1657889220,0,0,canceled,"0.27",,,,,,,,,,,
-"1657892820.59","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1657892820.464323",0,,,,,,,,,,,,,,,,,
+"1657892820.59","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1657892820.464323",0,0,1657892820,0,0,canceled,"0.327",,,,,,,,,,,
