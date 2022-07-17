@@ -47,3 +47,13 @@ modtime = 1657885621.106931000
 owner = nobody
 version = 9.0.0
 modtime = 1657885922.769322000
+
+[props/git_for_splunk_gitforsplunk-2]
+owner = nobody
+version = 9.0.0
+modtime = 1658041638.530031000
+
+[sourcetypes/%2Fopt%2Fsplunk%2Fvar%2Flog%2Fsplunk%2Fgit_for_splunk_gitforsplunk.log_Sun_Jul_17_12%3A37%3A18_2022_939220332]
+owner = nobody
+version = 9.0.0
+modtime = 1658041638.789656000
